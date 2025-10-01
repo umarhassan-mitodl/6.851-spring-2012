@@ -1,0 +1,32 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 0586d482-62a8-cf61-256c-d4f0a5379180
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e6a2d4eb-e523-d587-4ec8-ec90a6f535f2
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: c71f1361-372b-53f9-a7d5-c62cd7fc52cf
+  name: Inverted Lecture Format in Spring 2014
+  pageRef: /pages/instructor-insights/inverted-lecture-format-in-spring-2014
+  parent: e6a2d4eb-e523-d587-4ec8-ec90a6f535f2
+  weight: 30
+- identifier: 9d1ac4aa-2b01-9b19-847d-5dfcd274a338
+  name: Calendar and Notes
+  pageRef: /pages/calendar-and-notes
+  weight: 40
+- identifier: b66cbbb7-b35e-74ff-17cd-bf44e5fb6b1d
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 50
+- identifier: 32329e90-b031-e2c2-c47c-2a321cdafb3f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 688482c7-4a32-ee28-b5a4-8a7265d39b83
+  name: Final Project
+  pageRef: /pages/final-project
+  weight: 70

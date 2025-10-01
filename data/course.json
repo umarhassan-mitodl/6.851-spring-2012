@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "legacy_uid": "008541bf-849e-39d2-61ae-ecd40de8618b",
+  "instructors": {
+    "content": [
+      "adc586d4-a306-ce04-7a4f-c2ebe1bf1197"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2a2dc453-12d5-ead4-b1b8-bf4a8a8df647",
+    "website": "6-851-advanced-data-structures-spring-2012"
+  },
+  "course_title": "Advanced Data Structures",
+  "hide_download": true,
+  "course_description": "Data structures play a central role in modern computer science. You interact with data structures even more often than with algorithms (think Google, your mail server, and even your network routers). In addition, data structures are essential building blocks in obtaining efficient algorithms. This course covers major results and current directions of research in data structure.\n\nAcknowledgments\n---------------\n\nThanks to videographers Martin Demaine and Justin Zhang.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.851",
+  "course_image_thumbnail": {
+    "content": "316af2ae-c674-1392-e772-1a2085315636",
+    "website": "6-851-advanced-data-structures-spring-2012"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Instructor Insights"
+  ],
+  "site_uid": "5f06d737-01bc-41a0-b1bf-bf068a4f9fb6",
+  "site_short_id": "6.851-spring-2012",
+  "site_url_path": "courses/6-851-advanced-data-structures-spring-2012",
+  "title": "Course Metadata"
+}
